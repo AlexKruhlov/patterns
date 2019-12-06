@@ -13,6 +13,7 @@
         <module>prototype</module>
         <module>builder</module>
         <module>abstractfactory</module>
+        <module>factorymethod</module>
     </modules>
 
 
