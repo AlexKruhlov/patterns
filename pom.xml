@@ -16,6 +16,7 @@
         <module>factorymethod</module>
         <module>adapter</module>
         <module>bridge</module>
+        <module>composite</module>
     </modules>
 
 
