@@ -21,6 +21,7 @@
         <module>facade</module>
         <module>flyweight</module>
         <module>command</module>
+        <module>chainofresponsibility</module>
     </modules>
 
 
