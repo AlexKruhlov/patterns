@@ -30,6 +30,7 @@
         <module>proxy</module>
         <module>iterator</module>
         <module>mediator</module>
+        <module>strategy</module>
     </modules>
 
     <build>
